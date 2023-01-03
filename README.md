@@ -549,3 +549,9 @@ Reference to this project:  https://github.com/Francis-Komizu/Sovits
 
 
 
+8.	Explained videos:
+https://drive.google.com/file/d/15FvaOcUBjcHG5ABzOvx_SD-NX-gDN7cx/view?usp=share_link
+https://drive.google.com/file/d/1cyIvY8V2sh5bG6OvXPbS7meBj8eEF_Z-/view?usp=share_link
+https://drive.google.com/file/d/14AcMpxHgWORcIFfnML53LuJE_ha6W3va/view?usp=share_link
+https://drive.google.com/file/d/15FvaOcUBjcHG5ABzOvx_SD-NX-gDN7cx/view?usp=share_link
+https://drive.google.com/file/d/1g1VSHdgjvJ16_DOJxsYLdDten-9s2ORQ/view?usp=share_link
