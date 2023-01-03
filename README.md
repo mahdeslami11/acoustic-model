@@ -366,7 +366,7 @@ This part is added to the continuation of the sourse code by Fatemeh shaker
 Reference to this project:  https://github.com/Francis-Komizu/Sovits
 
 
-4.	The result of changing and improving the code in evaluating the output audio file
+4.	The result of changing and improving the code in evaluating the output audio file:
  For better voice quality, in Sovits2, I utilize the f0 model used in StarGANv2-VC to get the fundamental frequency feature of an input audio and feed it to the vocoder of VITS.
 	import torch
 	from torch import nn
@@ -540,8 +540,10 @@ Reference to this project:  https://github.com/Francis-Komizu/Sovits
 	return x
 
 
-5.	Reference to the project link
+5.	Reference to the project link:
        https://github.com/Francis-Komizu/Sovits
 
 
+6.	introduce yourself:
+     this is fatemeh shaker, Master student of Biomedical engineering- Bioelectric, in Islamic Azad University South Tehran Branch. this project done for DSP-Dr. Mahdi Eslami, first semester of 1401
 
