@@ -181,3 +181,8 @@ If you found this work helpful please consider citing our paper:
 
 1.	A summary of the purpose and function of the code: 
 Training and inference scripts for the acoustic models in A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion. The purpose of this project is to eliminate noise on the spectrum. we describe the voice conversion system we use to compare discrete and soft speech units. The system consists of three components: a content encoder, an acoustic model, and a vocoder. The content encoder extracts discrete or soft speech units from input audio. Next, the acoustic model translates the speech units into a target spectrogram. Finally, the spectrogram is converted into an audio waveform by the vocoder.
+
+
+2.	Describe your innovation in code improvement:
+   Increase the number of speakers at the beginning
+   Upgrade the software used in the vocoder
